@@ -3,6 +3,7 @@ public class CopadoService {
         return 'Copado Practice';
     }
 
+// RippleScope release-impact demo
     public static String getStatus(Account accountRecord) {
         if (accountRecord == null) {
             return null;
