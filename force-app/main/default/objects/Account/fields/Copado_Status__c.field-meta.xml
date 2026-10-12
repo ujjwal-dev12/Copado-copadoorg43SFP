@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Copado_Status__c</fullName>
     <externalId>false</externalId>
-    <label>Copado Status</label>
+    <label>Release Readiness Status</label>
     <length>50</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
